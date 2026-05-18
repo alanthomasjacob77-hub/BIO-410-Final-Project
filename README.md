@@ -19,7 +19,8 @@ Tree using the ML method to R Package DECIPHER
 
 ## Results 
 Here is the phylogentic tree :[Tree Final Project.pdf](https://github.com/user-attachments/files/27945976/Tree.Final.Project.pdf)
-The ph
+
+This phylogentic tree is showing the lineages of the Zaire ebolavirus. In this tree we see that it 
 
 
 
