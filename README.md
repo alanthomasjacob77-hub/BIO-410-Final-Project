@@ -10,7 +10,7 @@ The purpose of this experment is to you use the data from an NGS sequencing expe
 In order to understand the evolutionary relationship, we decided to create phylogenetic tree which involves,  using the NGS sequencing reads, make an assembly using the Megahit to create 6 samples into contigs, made an alignment using the R package DECIPHER and use the "BrowseSeqs" to visualize the alignment where the tree was made using the ML method to R Package DECIPHER
 
 ## Results 
-Here is the phylogentic tree ![Tree Final Project.pdf](https://github.com/user-attachments/files/27945976/Tree.Final.Project.pdf)
+Here is the phylogentic tree ![Tree Final Project.pdf](tree.jpg)
 
 This phylogentic tree is showing the close relationships lineages of the Zaire ebolavirus. In this tree we see that there is two branches, while the 6th sample is not showing any relationship with other samples but we are able to see that they are some way closely related. As we look into the second branch, we are able to see a cluster of samples 1,2,3,4, and 5. Samples 1 and 2 appear to show a monophyletic group that shows a common ancestor, similarly to samples 4 and 5. Samples 3 is related with common ancesstor that share with samples 4 and 5 which appears to be paraphletic group, it has a common ancestor but, it doesn't show all the other ancestors.
 
