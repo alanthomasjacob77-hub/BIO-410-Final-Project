@@ -17,7 +17,7 @@ Tree using the ML method to R Package DECIPHER
 
 
 ## Results 
-Here is the phylogentic tree :[Tree Final Project.pdf](https://github.com/user-attachments/files/27945976/Tree.Final.Project.pdf)
+Here is the phylogentic tree ![Tree Final Project.pdf](https://github.com/user-attachments/files/27945976/Tree.Final.Project.pdf)
 
 This phylogentic tree is showing the lineages of the Zaire ebolavirus. In this tree we see that there is two brancesh, while the 6th sample is not showing any relationship with other samples but we are able to see that they are some way closely related. As we look into the second branch, we are able to see a cluster of samples 1,2,3,4, and 5. Samples 1 and 2 appear to show a monophyletic group that shows a common ancestor, similarly to samples 4 and 5. Samples 3 is related with common ancesstor that share with samples 4 and 5 which appears to be paraphletic group, it has a common ancestor but, it doesn't show all the other ancestors.
 
